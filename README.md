@@ -1,2 +1,2 @@
-# OpenCV-Detectar-Olhos-
+# OpenCV-Detectar-Olhos
 Detectando olhos com OpenCV
